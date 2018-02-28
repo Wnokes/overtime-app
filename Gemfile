@@ -38,3 +38,4 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem "gritter", "1.2.0"
 gem 'administrate', '~> 0.9.0'
 gem 'bourbon'
+gem 'pundit', '~> 1.1'
