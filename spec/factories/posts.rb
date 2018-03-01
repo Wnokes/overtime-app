@@ -3,7 +3,6 @@ FactoryGirl.define do
     date Date.today
     rationale "Some Rationale"
     user
-    
   end
 
   factory :second_post, class: "Post" do
